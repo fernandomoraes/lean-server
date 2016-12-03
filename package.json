@@ -1,0 +1,30 @@
+{
+  "name": "lean-server",
+  "version": "1.0.0",
+  "description": "lean http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomoraes/lean-server.git"
+  },
+  "keywords": [
+    "http",
+    "server"
+  ],
+  "author": "Fernando Moraes <fernandosdemoraes@gmail.com> (https://github.com/fernandomoraes)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandomoraes/lean-server/issues"
+  },
+  "homepage": "https://github.com/fernandomoraes/lean-server#readme",
+  "engines": {
+    "node": ">=v7.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}

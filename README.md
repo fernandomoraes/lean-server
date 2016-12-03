@@ -1,2 +1,8 @@
-# lean-server
-lean server http
+lean-server
+=========
+
+A small library to handle http requests.
+
+## Installation
+
+## Usage
