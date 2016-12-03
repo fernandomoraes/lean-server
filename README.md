@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/fernandomoraes/lean-server.svg?branch=master)](https://travis-ci.org/fernandomoraes/lean-server)
+[![Build Status](https://travis-ci.org/fernandomoraes/lean-server.svg?branch=master)](https://travis-ci.org/fernandomoraes/lean-server) [![Coverage Status](https://coveralls.io/repos/github/fernandomoraes/lean-server/badge.svg?branch=master)](https://coveralls.io/github/fernandomoraes/lean-server?branch=master)
 
 lean-server
 =========
