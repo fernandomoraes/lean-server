@@ -5,7 +5,7 @@ A small library to handle http requests.
 
 ## Installation
 
-```bash npm install lean-server```
+`npm install lean-server`
 
 ## Usage
 
